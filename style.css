@@ -1,3 +1,17 @@
 * {
   font-family: Garamond, serif;
+  color: black;
+  font-size: 22px;
+  background-color: blanchedalmond;
+}
+
+.title {
+  font-size: 36px;
+  text-align: center;
+  background-color: chocolate;
+}
+
+.image {
+  width: 500px;
+  height: auto
 }
