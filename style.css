@@ -6,12 +6,44 @@
 }
 
 .title {
+  display: block;
   font-size: 36px;
+  background-color: cadetblue;
+  margin: 20px;
+  padding: 20px;
   text-align: center;
-  background-color: chocolate;
+  border: solid black 3px;
 }
 
-.image {
-  width: 500px;
-  height: auto
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.ord_list {
+  background-color: burlywood;
+  color: maroon;
+}
+
+.unord_list {
+  background-color: coral;
+  color: brown;
+}
+
+.main_list_item {
+  display: block;
+  margin-right: 40px;
+  color: blueviolet;
+  text-align: center;
+  padding: 20px;
+  font-size: 20px;
+  background-color: darkorange;
+  border: solid black 2px;
+}
+
+.link {
+  display: inline-block;
+  background-color: darkgoldenrod;
 }
